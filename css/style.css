@@ -1,0 +1,52 @@
+div.head {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(228, 221, 195);
+}
+
+h2 {
+  text-align: center;
+  font-size: 50px;
+  background-color: greenyellow;
+}
+div.M {
+  text-align: center;
+}
+h3 {
+  font-size: 35px;
+  text-align: center;
+  background-color: lightblue;
+}
+
+p.紹介 {
+  font-size: 20px;
+  text-align: center;
+}
+
+.ベスト {
+  text-align: center;
+  font-size: 5px;
+  color: olive;
+}
+
+.usagi {
+  text-align: center;
+}
+
+div.ryouri {
+  text-align: center;
+}
+
+.shousai {
+  text-align: center;
+}
+
+p.クレーム {
+  text-align: right;
+}
+
+div.クレーム {
+  text-align: center;
+}
